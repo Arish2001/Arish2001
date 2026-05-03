@@ -32,5 +32,5 @@ I am looking for opportunities to grow as an Android Developer and contribute to
 
 ## Connect With Me
 - GitHub: https://github.com/Arish2001
-- LinkedIn: linkedin.com/in/syed-mohammad-arish
+- LinkedIn: https://www.linkedin.com/in/syed-mohammad-arish
 - Email: syedmdarish7711@gmail.com
